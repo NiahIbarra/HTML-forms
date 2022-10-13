@@ -1,0 +1,13 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+#submit-button {
+    width: 10%;
+}
+
+#form-message{
+    width: 30%;
+    height: 15em;
+}
